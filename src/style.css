@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #F1F1F1;
+  --black: #1A1A1A;
+}
+
+body {
+  background-color: var(--black);
+}
